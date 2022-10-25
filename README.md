@@ -14,16 +14,16 @@ Met eieren, bloem, melk en zout is dit recept zo klaar.
 - zout
 
 ### Lekkere extra's
-- kaas (en stroop)
-- ham en kaas
-- spek en kaas
-- stroop
-- chocoladepasta
-- jam
-- (poeder)suiker en kaneel
-- plakjes banaan en chocoladepasta
-- gebakken appel en kaneel
-- aardbeien en ijs
+- Kaas (en stroop)
+- Ham en kaas
+- Spek en kaas
+- Stroop
+- Chocoladepasta
+- Jam
+- (Poeder) Suiker en kaneel
+- Plakjes banaan en chocoladepasta
+- Gebakken appel en kaneel
+- Aardbeien en ijs
 
 
 #### Bereidingswijze
