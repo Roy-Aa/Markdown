@@ -22,4 +22,10 @@
 - gebakken appel en kaneel
 - aardbeien en ijs
 
-[Bron](https://www.lekkerensimpel.com/basisrecept-voor-pannenkoeken/)
+
+#### Bereidingswijze
+Meng in een kom de eieren, de bloem, melk en een snufje zout. Als alle klontjes zijn verdwenen, kunnen de pannenkoeken gebakken worden.\
+Verwarm een beetje boter of margarine in een pan. Wacht even totdat de pan goed warm is, en verdeel dan met een soeplepel wat beslag in het midden van de pan. Beweeg je pan een\
+beetje heen en weer zodat het beslag over de hele pan verdeeld is. Bak de pannenkoek ongeveer 2-3 minuten totdat de bovenkant droog is. Draai de pannenkoek om en bak de pannenkoek\ nog ongeveer 1-2 minuten op de andere kant.\
+
+[Bron naar het recept voor meer informatie](https://www.lekkerensimpel.com/basisrecept-voor-pannenkoeken/)
