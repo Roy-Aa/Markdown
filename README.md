@@ -1,4 +1,8 @@
 # Pannenkoeken recept
+
+Zelf pannenkoeken maken is helemaal niet moeilijk, en je hebt geen pakje nodig.\
+Met eieren, bloem, melk en zout is dit recept zo klaar.
+
 - Bereidingstijd: 20 min
 - Recept voor: 3 personen
 
