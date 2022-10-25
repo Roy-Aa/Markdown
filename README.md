@@ -7,9 +7,6 @@ Met eieren, bloem, melk en zout is dit recept zo klaar.
 - Recept voor: 3 personen
 
 ![Pannenkoeken](Pannenkoeken.png)
-
-# Recept
-
 ## Benodigdheden
 - 2 eieren
 - 250 gr bloem
