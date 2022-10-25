@@ -8,7 +8,9 @@ Met eieren, bloem, melk en zout is dit recept zo klaar.
 
 ![Pannenkoeken](Pannenkoeken.png)
 
-## Recept
+# Recept
+
+## Benodigdheden
 - 2 eieren
 - 250 gr bloem
 - 500 ml melk
